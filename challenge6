@@ -1,0 +1,7 @@
+getJoke(function(res) {
+    var joke = res; 
+    var jokeSensical = JSON.stringify(joke);
+
+console.log(joke);
+    
+});
